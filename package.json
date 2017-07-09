@@ -1,0 +1,23 @@
+{
+    "name": "Alexa-News-Skill",
+    "preferGlobal": true,
+    "version": "0.0.1",
+    "author": "Sze Yick <szeyick@gmail.com>",
+    "description": "An Alexa Skill that retrieves weather information",
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.10"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "latest",
+        "json-lint": "latest",
+        "alexa-sdk": "latest",
+        "util" : "latest",
+        "events" : "latest",
+        "hashmap" : "latest",
+        "request" : "latest"
+    }
+}
