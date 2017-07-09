@@ -2,6 +2,8 @@
 
 This repository contains an Amazon Alexa Skill that processes voice requests to read the news. Presently the news articles provided are not entirely relevant to my interests or location. This Alexa Skill has been created to rectify that.
 
+The purpose of this skill is to allow for it to be configurable so that additional news sources could be added without changing the code too much.
+
 ## Intents Schema
 
 ~~~
