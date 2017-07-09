@@ -55,3 +55,7 @@ The **sources** in the current version will be
 * ABC Australia
 * Tech Crunch
 * ESPN
+
+## Sources
+
+Rather than scrape the web for news and to speed up the develop process a little, I've used the https://newsapi.org/ API.
